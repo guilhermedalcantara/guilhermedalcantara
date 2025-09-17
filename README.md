@@ -27,9 +27,9 @@ No tempo livre, gosto de curtir com a família, assistir futebol e jogar videoga
 
 <h3>Projetos</h3>
 
-- 💻 **Sistema de Cinema (Java POO)** – Gerenciamento de filmes, sessões e ingressos, aplicando conceitos de POO e boas práticas.
+<h3>Projetos</h3>
 
-*(Inclua links para repositórios quando disponíveis)*
+- 💻 [Sistema de Cinema (Java POO)](https://github.com/guilhermedalcantara/Sistema-de-Cinema) – Gerenciamento de filmes, sessões e ingressos, aplicando conceitos de POO e boas práticas.
 
 ---
 
