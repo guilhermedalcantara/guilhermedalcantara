@@ -11,7 +11,7 @@
 
 <p>
 Sou estudante do 4º período de Ciências da Computação na UNIVALI e moro em Florianópolis, SC.<br>
-Tenho experiência com C++ e Java POO, atualmente meu foco é Java.<br>
+Tenho experiência com Python e Java POO, atualmente meu foco é Java.<br>
 No tempo livre, gosto de curtir com a família, assistir futebol e jogar videogames.
 </p>
 
@@ -21,7 +21,7 @@ No tempo livre, gosto de curtir com a família, assistir futebol e jogar videoga
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
 </div>
 
 ---
