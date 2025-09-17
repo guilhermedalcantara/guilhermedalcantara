@@ -35,8 +35,8 @@ No tempo livre, gosto de curtir com a família, assistir futebol e jogar videoga
 <h3>Estatísticas do GitHub</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermedalcantara&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermedalcantara&layout=compact&theme=dracula" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermedalcantara&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermedalcantara&layout=compact&theme=tokyonight" height="150" alt="languages graph"/>
 </div>
 
 ---
