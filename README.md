@@ -39,6 +39,7 @@ No tempo livre, gosto de estar com a família, assistir futebol e jogar videogam
 ### 🚀 Projetos
 
 - 💻 [Sistema de Cinema (Java POO)](https://github.com/guilhermedalcantara/Sistema-de-Cinema) – Gerenciamento de filmes, sessões e ingressos, aplicando conceitos de POO e boas práticas.
+- 🎮 [Jogo da Velha (Python)](https://github.com/guilhermedalcantara/Jogo-da-Velha) – Simula um jogo da velha, aplicando conceitos básicos de laço de repetição.
 
 ---
 
