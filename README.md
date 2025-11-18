@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou o Guilherme de Alcantara Leite</h1>
-  <p>🎓 Estudante de Ciências da Computação | ☕ Focado em Java | 🚀 Buscando oportunidades de estágio</p>
+  <p>🎓 Estudante de Ciências da Computação | Java | 🤖 Interesse em IA | 🚀 Buscando oportunidades de estágio</p>
 
   <a href="https://www.linkedin.com/in/guilherme-alcantara-990277353/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
@@ -12,14 +12,17 @@
 
 ---
 
-### 📌 Sobre mim
+### 👨🏽‍💻 Sobre mim
 
-Sou estudante do 4º período de Ciências da Computação na **UNIVALI**, moro em **Florianópolis, SC**.
+Sou estudante do 5º período de Ciências da Computação na **UNIVALI**, moro em **Florianópolis, SC**.
 
-Tenho **experiência prática com Java**, utilizando conceitos de Programação Orientada a Objetos em projetos próprios.  
-Também possuo **experiência básica com Python**, utilizado em scripts e estudos introdutórios.
+Possuo experiência acadêmica e prática com Java, aplicando conceitos de Programação Orientada a Objetos (POO) em projetos desenvolvidos durante a faculdade e em estudos pessoais voltados para backend.
 
-Atualmente, estou focado em aprofundar meus conhecimentos em **Java** e desenvolver projetos que sigam boas práticas de desenvolvimento.
+Também tenho conhecimentos básicos em Python, utilizado em atividades da graduação e pequenos scripts simples.
+
+Atualmente, meu foco principal é iniciar na área de Inteligência Artificial, estudando a base necessária para evoluir nesse caminho, enquanto mantenho desenvolvimento backend como área de interesse e prática contínua.
+
+Busco minha primeira oportunidade na área de desenvolvimento, sempre aprendendo, criando projetos e aprimorando minhas habilidades técnicas.
 
 No tempo livre, gosto de estar com a família, assistir futebol e jogar videogame.
 
@@ -38,8 +41,9 @@ No tempo livre, gosto de estar com a família, assistir futebol e jogar videogam
 
 ### 🚀 Projetos
 
-- 💻 [Sistema de Cinema (Java POO)](https://github.com/guilhermedalcantara/Sistema-de-Cinema) – Gerenciamento de filmes, sessões e ingressos, aplicando conceitos de POO e boas práticas.
-- 🎮 [Jogo da Velha (Python)](https://github.com/guilhermedalcantara/Jogo-da-Velha) – Simulação de um jogo da velha, aplicando conceitos básicos de laço de repetição.
+- [Sistema de Cinema (Java POO)](https://github.com/guilhermedalcantara/Sistema-de-Cinema) – Gerenciamento de filmes, sessões e ingressos, aplicando conceitos de POO e boas práticas.
+- [Jogo da Velha (Python)](https://github.com/guilhermedalcantara/Jogo-da-Velha) – Simulação de um jogo da velha, aplicando conceitos básicos de laço de repetição.
+- [Sistema de Matricula (Java POO))](https://github.com/guilhermedalcantara/Sistema-de-Matricula) – Simulação de Gerenciamneto de Pessoas, Matrícula e Cursos.
 
 ---
 
