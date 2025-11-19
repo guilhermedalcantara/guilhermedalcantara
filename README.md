@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou o Guilherme de Alcantara Leite</h1>
-  <p>🎓 Estudante de Ciências da Computação | ☕ Java | 🤖 Interesse em IA | 🚀 Buscando oportunidades de estágio</p>
+  <p>🎓 Estudante de Ciências da Computação | ☕ Java | 🤖 Interesse em IA | 💼 Buscando oportunidades de estágio</p>
 
   <a href="https://www.linkedin.com/in/guilherme-alcantara-990277353/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
@@ -39,7 +39,7 @@ No tempo livre, gosto de estar com a família, assistir futebol e jogar videogam
 
 ---
 
-### 🚀 Projetos
+### 💻 Projetos
 
 - [Sistema de Cinema (Java POO)](https://github.com/guilhermedalcantara/Sistema-de-Cinema) – Gerenciamento de filmes, sessões e ingressos, aplicando conceitos de POO e boas práticas.
 - [Jogo da Velha (Python)](https://github.com/guilhermedalcantara/Jogo-da-Velha) – Simulação de um jogo da velha, aplicando conceitos básicos de laço de repetição.
@@ -66,7 +66,7 @@ No tempo livre, gosto de estar com a família, assistir futebol e jogar videogam
 
 ### 🎯 Objetivo
 
-Estou em busca de uma **oportunidade de estágio** na área de desenvolvimento, especialmente com foco em Java, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e evoluir na carreira.
+Estou em busca de uma **oportunidade de estágio** na área de desenvolvimento, onde eu possa aplicar meus conhecimentos em **Java e Python**, aprender com profissionais experientes e evoluir na carreira.
 
 ---
 
