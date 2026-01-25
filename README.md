@@ -31,10 +31,8 @@ No tempo livre, gosto de estar com a família, assistir futebol e jogar videogam
 ### 🛠 Tecnologias & Ferramentas
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"/>
 </div>
 
 ---
@@ -42,7 +40,7 @@ No tempo livre, gosto de estar com a família, assistir futebol e jogar videogam
 ### 💻 Projetos
 
 - [Sistema de Cinema (Java POO)](https://github.com/guilhermedalcantara/Sistema-de-Cinema) – Gerenciamento de filmes, sessões e ingressos, aplicando conceitos de POO e boas práticas.
-- [Jogo da Velha (Python)](https://github.com/guilhermedalcantara/Jogo-da-Velha) – Simulação de um jogo da velha, aplicando conceitos básicos de laço de repetição.
+- [API Crud de Usuários (Python)](https://github.com/guilhermedalcantara/CRUD_Usuarios) – Um sistema que cria, lê, atualiza e deleta usuários.
 - [Sistema de Matricula (Java POO))](https://github.com/guilhermedalcantara/Sistema-de-Matricula) – Simulação de Gerenciamneto de Pessoas, Matrícula e Cursos.
 
 ---
