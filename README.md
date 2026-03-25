@@ -12,7 +12,7 @@
 
 ---
 
-### 👨🏽‍💻 Sobre mim
+### Sobre mim
 
 Sou estudante do 5º período de Ciências da Computação na **UNIVALI**, moro em **Florianópolis, SC**.
 
@@ -24,8 +24,6 @@ Atualmente, meu foco principal é iniciar na área de Inteligência Artificial, 
 
 Busco minha primeira oportunidade na área de desenvolvimento, sempre aprendendo, criando projetos e aprimorando minhas habilidades técnicas.
 
-No tempo livre, gosto de estar com a família, assistir futebol e jogar videogame.
-
 ---
 
 ### 🛠 Tecnologias & Ferramentas
@@ -33,6 +31,8 @@ No tempo livre, gosto de estar com a família, assistir futebol e jogar videogam
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
 </div>
 
 ---
