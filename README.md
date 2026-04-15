@@ -20,7 +20,7 @@ Possuo experiência acadêmica e prática com Java, aplicando conceitos de Progr
 
 Também tenho conhecimentos básicos em Python, utilizado em atividades da graduação e pequenos scripts simples.
 
-Atualmente, meu foco principal é iniciar na área de Inteligência Artificial, estudando a base necessária para evoluir nesse caminho, enquanto mantenho desenvolvimento backend como área de interesse.
+Atualmente, meu foco principal é iniciar na área de Inteligência Artificial, estudando a base necessária para evoluir nesse caminho.
 
 Busco minha primeira oportunidade na área de desenvolvimento, sempre aprendendo, criando projetos e aprimorando minhas habilidades técnicas.
 
